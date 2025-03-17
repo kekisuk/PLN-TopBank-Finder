@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0">
+  <diagram name="Página-1" id="DKcr5GDBiTGc66r8nPiE">
+    <mxGraphModel dx="1042" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y4lVgcnRKAwjeLmLpcDW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4lVgcnRKAwjeLmLpcDW-1" target="Y4lVgcnRKAwjeLmLpcDW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lVgcnRKAwjeLmLpcDW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4lVgcnRKAwjeLmLpcDW-1" target="Y4lVgcnRKAwjeLmLpcDW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lVgcnRKAwjeLmLpcDW-1" value="Coleta de Dados" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6D0DE;strokeColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lVgcnRKAwjeLmLpcDW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4lVgcnRKAwjeLmLpcDW-2" target="Y4lVgcnRKAwjeLmLpcDW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lVgcnRKAwjeLmLpcDW-2" value="Processamento e Estruturação" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCC99,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lVgcnRKAwjeLmLpcDW-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4lVgcnRKAwjeLmLpcDW-3" target="Y4lVgcnRKAwjeLmLpcDW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lVgcnRKAwjeLmLpcDW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4lVgcnRKAwjeLmLpcDW-3" target="Y4lVgcnRKAwjeLmLpcDW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lVgcnRKAwjeLmLpcDW-3" value="Armazenamento&amp;nbsp;&lt;div&gt;dos Resultados&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lVgcnRKAwjeLmLpcDW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4lVgcnRKAwjeLmLpcDW-4" target="Y4lVgcnRKAwjeLmLpcDW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lVgcnRKAwjeLmLpcDW-4" value="Processar Texto&amp;nbsp;&lt;div&gt;com PLN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#C3ABD0,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lVgcnRKAwjeLmLpcDW-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4lVgcnRKAwjeLmLpcDW-5" target="Y4lVgcnRKAwjeLmLpcDW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lVgcnRKAwjeLmLpcDW-5" value="Sistema Inteligente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#7EA6E0,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lVgcnRKAwjeLmLpcDW-10" value="Reddit API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=light-dark(#FFE599,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lVgcnRKAwjeLmLpcDW-13" value="CSV" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#CCE5FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="390" y="280" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lVgcnRKAwjeLmLpcDW-15" value="Interface" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=light-dark(#F19C99,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="700" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
